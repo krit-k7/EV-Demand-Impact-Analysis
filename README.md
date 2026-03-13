@@ -6,7 +6,6 @@ The dashboard highlights EV registrations, charging infrastructure growth, charg
 ---
 
 ## 📊 Key Insights
-
 ✔ EV registrations increased significantly from **2015 to 2025**.  
 ✔ **Bengaluru, Delhi, and Mumbai** lead EV adoption among major cities.  
 ✔ **Two-wheelers dominate EV registrations** in India.  
