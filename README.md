@@ -7,7 +7,7 @@ The dashboard highlights EV registrations, charging infrastructure growth, charg
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Screenshot 2026-03-13 173912.png)
+![Dashboard](dashboard.png)
 
 ---
 
