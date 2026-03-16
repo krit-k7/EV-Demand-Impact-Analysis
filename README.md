@@ -1,7 +1,7 @@
 # 🚗 Electric Vehicle Demand & Impact Analysis (2015–2025)
 
 This project analyzes the growth of **Electric Vehicle (EV) adoption in major Indian cities** using **Microsoft Power BI**.  
-The dashboard highlights EV registrations, charging infrastructure growth, charging sessions, and environmental impact over time
+The dashboard highlights EV registrations, charging infrastructure growth, charging sessions, and environmental impact over time.
 
 ---
 
