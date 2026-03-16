@@ -44,7 +44,7 @@ The Power BI dashboard provides insights into:
 
 - EV registrations by **city**
 - EV registrations by **vehicle type**
-- EV adoptin trends **(2015–2025)**
+- EV adoption trends **(2015–2025)**
 - Growth in **charging stations**
 - **CO₂ emission reduction impact**
 
