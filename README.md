@@ -16,7 +16,7 @@ The dashboard highlights EV registrations, charging infrastructure growth, charg
 ✔ **Bengaluru, Delhi, and Mumbai** lead EV adoption among major cities.  
 ✔ **Two-wheelers dominate EV registrations** in India.  
 ✔ A noticeable drop in EV registrations occurred in **2020 due to the COVID-19 lockdown**.  
-✔ Charging infrastructure and charging sessions increased alongside EV adoption
+✔ Charging infrastructure and charging sessions increased alongside EV adoption.
 
 ---
 
